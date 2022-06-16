@@ -77,7 +77,7 @@ p {
 }
 
 @media (max-width: 960px) {
-  /* For a screen < 960px, this CSS will be read */
+  /* For a screen < 960px, this CSS will be read _ */
   .card-white {
     width: 700px;
   }
